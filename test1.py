@@ -1,1 +1,1 @@
-print "Mai accha baccha nahi hu"
+print("Mai accha baccha nahi hu")
